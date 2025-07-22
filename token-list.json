@@ -1,6 +1,6 @@
 {
   "name": "Nexswap",
-  "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/nexus.png",
+  "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/nexswap.svg",
   "keywords": [
     "nexus",
     "swap"
@@ -43,6 +43,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
